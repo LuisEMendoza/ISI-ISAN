@@ -1,0 +1,53 @@
+---
+title: "Encuadre"
+---
+
+## Fines del aprendizaje o formación
+
+Reconocer las bases teoríco-conceptuales y técnico-metodológicas del enfoque de sistemas que le permitan recuperar nformación de forma holística e integradora para el análisis y desarrollo de alternativas de resolución de situaciones y problemas de forma sistémica.
+
+## Contenido temático
+
+UNIDAD I. La Teoría General de Sistemas.
+
+1. Teoría General de Sistemas.
+2. Sistemas.
+3. Conceptualización de principios.
+  
+UNIDAD II. Propiedades y características de los Sistemas.
+
+1. Propiedades de los sistemas.
+2. Organización de los sistemas complejos.
+
+UNIDAD III. Taxonomía de los sistemas.
+
+1. Los sistemas en el contexto de la solución de  problemas.
+2. Taxonomía de Boulding.
+3. Taxonomía de Jordan.
+4. Taxonomía de Beer.
+5. Taxonomía de Checkland.
+
+UNIDAD IV. Metodología de los sistemas duros.
+
+1. Paradigma de análisis de los sistemas duros.
+2. Metodología de Hall y Jenkins.
+3. Aplicaciones (enfoque determinístico).
+
+UNIDAD V. Metodología de los sistemas blandos.
+
+1. Metodología de los sistemas suaves de Checkland.
+2. El sistema de actividad humana como un lenguaje de modelación.
+3. Aplicaciones (enfoque probabilístico)
+
+## Criterios de Evaluación.
+
+Criterio | Ponderación
+:---|---:
+Reportes de lectura | 5%
+Exposición temática o de trabajos | 10%
+Participación en clase | 5%
+Resolución de ejercicios y problemas (clase y extraclase) | 10%
+Reportes escritos de observaciones e información recopilada | 5%
+ensayos | 5%
+Exámenes | 60%
+_TOTAL_ | 100%
