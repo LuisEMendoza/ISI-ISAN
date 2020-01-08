@@ -10,6 +10,7 @@ navbar:
       - text: "Encuadre"
         href: encuadre.html
       - text: "Unidad 1"
+        href: U1.html
       - text: "Unidad 2"
       - text: "Unidad 3"
       - text: "Unidad 4"
