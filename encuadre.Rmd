@@ -43,11 +43,10 @@ UNIDAD V. Metodología de los sistemas blandos.
 
 Criterio | Ponderación
 :---|---:
-Reportes de lectura | 5%
+Reportes de lectura | 10%
 Exposición temática o de trabajos | 10%
 Participación en clase | 5%
 Resolución de ejercicios y problemas (clase y extraclase) | 10%
-Reportes escritos de observaciones e información recopilada | 5%
-ensayos | 5%
+Ensayos | 5%
 Exámenes | 60%
 _TOTAL_ | 100%
