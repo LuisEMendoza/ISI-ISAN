@@ -2,6 +2,69 @@
 title: "La Teoría General de Sistemas"
 ---
 
-La propuesta de la ingeniería de sistemas consiste en una actitud del pensamiento, una filosofía practica, una metodología de cambio para, por medio de ellas, establecer el orden en la confusión.
+La propuesta de la ingeniería de sistemas consiste en una actitud del pensamiento, una filosofía practica, o una metodología de cambio para establecer el orden en la confusión. En esta evolución, la ingeniería de sistemas es una disciplina que se preocupa por el diseño, al enfatizar un proceso creativo que cuestiona las suposiciones sobre las cuales se han estructurado los antiguos esquemas; además, propone enfoques totalmente nuevos a fin de conseguir soluciones óptimas.
+
+Establece para la evolución de un sistema el requerimiento de tener un rumbo muy bien definido, personas comprometidas con esta visión del futuro y los sistemas que le permitan a dichas personas alcanzar lo deseado.
+
+Es importante recalcar que en la actualidad se presentan situaciones complejas que exigen para su tratamiento un enfoque que se aleje del pensamiento específico e incoordinado. Es necesario pues, abordar dichas situaciones desde un enfoque transdisciplinario. Es necesario indicar que no es una disciplina nueva, más bien, es una metodología de trabajo, de abordaje y de entendimiento.
+
+## Teoría General de Sistemas: Orígenes, fuentes y enfoques
+
+La Teoría General de Sistemas (TGS) se remonta a los orígenes de la Filosofía. Incluso Aristóteles afirmó que _el todo es más que la suma de sus partes_. Galileo, en pleno siglo XVI concluía que para poder resolver cualquier problema, resultaba muy práctico dividirlo en la mayor cantidad posible de elementos y al resolver cada uno de los problemas se obtendría la solución al problema general.
+
+Sin embargo, muchas ideas de la TGS pueden atribuirse al filósofo alemán George Whilhem Friedrich Hegel:
+
+- El todo es más que la suma de las partes.
+- El todo determina la naturaleza de las partes.
+- Las partes no pueden comprenderse si se consideran de manera aislada del todo.
+- Las partes están dinámicamente interrelacionadas o son independientes.
+
+Un hito se produjo en el siglo XX, también curiosamente en Alemania. Ahí se originaron también las ideas que germinaron en la aceptación de que los sistemas vivientes eran sistemas aboertos, que eran influenciados por el entorno y que no bastaba el nivel físico para entenderlos, ya que había que agregar la influencia de lo socio-cultural. Áreas en apariencia distantes como la Termodinámica y la Biología desarrollaron los conceptos de sistemas abiertos, y en esa época incluso se hizo evidente el contraste entre sistemas vivos e inertes.
+
+La TGS es entonces el resultado de estas y otras contribuciones, listadas a continuación:
+
+1. John Von Neumann (1948), quien desarrolló una teoría general de autómata y delineó los fundamentos de la inteligencia artificial.
+
+2. C. E. Shannon, quien con su _teoría de la información_ desarrolló el concepto de cantidad de información, alrededor de la _teoría de las comunicaciones_.
+
+3. __Cibernética__, de Norbert Wiener, donde se relacionan entre sí los conceptos de _entropía_ y desorden.
+
+4. Ross W. Sabih (1956), desarrolló aún más los conceptos de Cibernética, autorregulación y autodirección.
+
+A partir de estos aportes se volvió notorio que, por un lado, si se implementaba un mecanismo de retroalimentación, se conseguía que los sistemas cerrados se aproximaran un poco a los sistemas abiertos; por el otro lado, se mostró lo imposible que es duplicar el control automático en los sistemas vivos.
+
+Cerraremos este apartado hablando de las últimas aportaciones que se consideran pertinentes: los intentos de __Koehler__ (1928) por expresar la manera en la que las propiedades de los sistemas regulan la conducta de los componentes y de ahí, la conducta de los sistemas. __Redfield__ (1942), hizo visible la continuidad y gran variedad y complejidad de los eventos de transición que unen los niveles biológicos y socio-culturales. A __Singer__ y __Sommerhoff__ se les atribuye el descubrimiento de _cómo representar exactamente lo que se quiere decir mediante coordinación e integración y buena organización_. La organización se juzga buena solo si actúa para mantener un conjunto asignado de variables esenciales con límites asignados.
+
+Podemos concluir que el enfoque sistémico trata de comprender el funcionamiento de la sociedad desde una perspectiva __holística__ e integradora, en donde lo importante son las relaciones entre los componentes. Se llama __holismo__ al punto de vista que se interesa más por el todo que por las partes. El enfoque sistémico no concibe la posibilidad de explicar un elemento si no es precisamente en su relación con el todo. Metodológicamente, por tanto el enfoque sistémico es lo opuesto al individualismo metodológico, aunque esto no implique necesariamente que estén en contradicción.
+
+## Sistemas y su diseño
+
+### Sistema
+
+Un sistema es un conjunto de partes o elementos organizados y relacionados que interactúan entre sí para lograr un objetivo. Los sistemas reciben (entrada) datos, energía o materia del ambiente y proveen (salida) información, energía o materia.
+
+Un sistema puede ser físico o concreto (una computadora, un televisor, un humano) o puede ser abstracto o conceptual (un software). Cada sistema existe dentro de otro más grande, por lo tanto un sistema puede estar formado por subsistemas y partes, y a la vez puede ser parte de un
+supersistema.
+
+Los sistemas tienen límites o fronteras que los diferencian del ambiente. Ese límite puede ser físico (el gabinete de una computadora) o conceptual. Si hay algún intercambio entre el sistema y el ambiente a través de ese límite, el sistema es abierto, de lo contrario, el sistema es cerrado.
+
+El ambiente es el medio en externo que envuelve física o conceptualmente a un sistema. El sistema tiene interacción con el ambiente, del cual recibe entradas y al cual se le devuelven salidas. El ambiente también puede ser una amenaza para el sistema.
+
+Un grupo de elementos no constituye un sistema si no hay una relación e interacción, que de la idea de un "todo" con un propósito.
+
+### Tipos de sistemas
+
+#### Sistemas vivos y no vivos
+
+#### Sistemas abstractos y concretos
+
+#### Sistemas abiertos y cerrados
+
+
+
+
+
+
+
 
 

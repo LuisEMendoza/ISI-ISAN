@@ -1,0 +1,99 @@
+---
+title: "Taxonomía de los Sistemas"
+---
+
+## Taxonomía de Building
+
+Se basa en una clasificación vertical de niveles jerárquicos de sistemas, desde subsistemas hacia sistemas, luego a supersistema, y continúa hacia meta-sistemas, a su vez subsistemas de sistemas mayores, y así sucesivamente. La complejidad de cada nivel podría definirse en función de las interrelaciones entre los elementos de cada tipo de sistema y variedad de estos que cada sistema puede asumir. Con base en las consideraciones anteriores, la taxonomía de Building define los siguientes niveles:
+
+__Primer nivel__. Las estructuras estáticas. Incluye desde la estructura atómica hasta la estructura galáctica, pasando por las moléculas cristales, Tierra, Sistemas Solar y universo. 
+
+__Segundo nivel__. Los sistemas dinámicos simples o mecanismos. Incluye desde una palanca hasta un complejo dinámico. Inclusive hasta el mismo Sistema Solar visto dinámicamente. El ámbito disciplinario de este nivel lo constituyen la física, la química, la economía y otros similares.
+
+__Tercer nivel__. Los sistemas de control o cibernéticos. Este nivel abarca desde los sistemas mecanicistas de control como un termostato y un regulador de voltaje, hasta modelos cibernéticos homeostáticos como un autómata o un “perceptrón”. El ámbito disciplinario de este nivel lo constituyen la teoría de control la cibernética y la teoría de la información.
+
+__Cuarto nivel__. Los sistemas abiertos. Aquí entran desde las manifestaciones de equilibrio físico-químicas, como la flama y los fenómenos termodinámicos, hasta las células con sus propiedades de supervivencia y autorrelación. El ámbito disciplinario de este nivel lo constituye la teoría del metabolismo. 
+
+__Quinto nivel__. El sistema genético-social de los organismos inferiores. Lo conforman las plantas y las entidades integrantes de una sociedad de células con elementos diferenciados, de dependencia mutua donde existe una división del trabajo pero con un objetivo común. El ámbito disciplinario de este nivel es el de la botánica 
+
+__Sexto nivel__. El sistema animal lo constituye el reino animal y racional. Se caracteriza por un incremento en la teleología de sus entidades. Es un nivel con mayor movilidad y con cierta conciencia elemental. Los receptores de información especializados se encuentran, más desarrollados (sentidos como el ojo, el oído el olfato, el tacto, el gusto). El sistema nervioso alcanza un grado de complejidad mayor al grado de contar con un cerebro, elemento de organización de información. El ámbito disciplinario de este nivel es la zoología.
+ 
+__Séptimo nivel__. El ser humano. En este nivel localizamos todas las características del sexto nivel, el animal, pero la conciencia del humano es más compleja. El cerebro humano reconstruye imágenes en el cerebro y tiene la capacidad de reflexión. Esto se demuestra mediante su capacidad de hablar, escribir, discernir, leer; esto es, capacidades de reconocimientos de patrones mucho más compleja que reconocer un gruñido o un olor. El ser humano además de la posesión del espacio también tiene la del tiempo y organiza sus actividades bajo dicha concepción. El ámbito disciplinario de este nivel es el de la biología, la psicología y la psiquiatría.
+
+__Octavo nivel__. El sistema social y cultural. Este nivel lo constituyen las organizaciones sociales y esta caracterizado por el contenido y el significado de los paquetes de información y por la esencia y trascendencia de las escalas de valores. Están incluidos también los eventos históricos y las expresiones culturales como la música, poesía y pintura entre otras. También incluye el conjunto de las emociones humanas. El ámbito disciplinario de este nivel lo constituyen la psicología la antropología, la historia y las ciencias del comportamiento.
+
+__Noveno nivel__. Los sistemas trascendentales. Abarca todo lo que es esencial, lo final, lo absoluto, lo trascendente, en este nivel se encuentran el “todo” en sus diferentes concepciones. Es el nivel de lo divino. Su ámbito disciplinario, el que se dedica al estudio de sus características, lo constituyen la filosofía, la teosofía, la teología y la cosmogonía.
+
+## Taxonomía de Checkland
+
+Según Checkland las clasificaciones u ordenamiento por clases de los sistemas son las siguientes:
+
+- Sistemas Naturales: es la naturaleza, sin intervención del hombre, no tienen propósito claro.
+
+- Sistemas Diseñados: son creados por alguien, tienen propósito definido. Ejemplo un sistema de información, un coche.
+
+- Sistemas de Actividad Humana: contienen organización estructural, propósito definido. Ejemplo: una familia.
+
+- Sistemas Sociales: son una categoría superior a los de actividad humana y sus objetivos pueden ser múltiples y no coincidentes. Ejemplo: una ciudad, un país.
+
+- Sistemas Transcendentales: constituyen aquello que no tiene explicación. Ejemplo: Dios o la Metafísica. El sistemista inglés Peter Checkland señaló hace más de 40 años que: “lo que necesitamos no son grupos interdisciplinarios, sino conceptos transdisciplinarios, o sea conceptos que sirvan para unificar el conocimiento por ser aplicables en áreas que superan las trincheras que tradicionalmente delimitan las fronteras académicas”
+
+Veamos un ejemplo: Son numerosas las entidades naturales que poseen reguladores - también naturales - de algunos de sus procesos o funciones. Nosotros mismos, como seres biológicos, tenemos diversas regulaciones, por ejemplo en el caso de nuestra presión sanguínea, de nuestra temperatura corporal, de nuestro ritmo respiratorio y cardíaco, del nivel glucémico en la
+sangre, etcétera.
+
+Regulaciones similares - y los dispositivos correspondientes - existen en todos los seres vivientes (animales y vegetales), que deben adaptarse y readaptarse sin cesar, a condiciones variables de entorno y de equilibrio interno.
+
+Todos los reguladores tienen el mismo mecanismo básico, o sea la retroacción por retroalimentación (el “_feedback_”) del efecto resultante del proceso, observado y medido en cada instante, sobre el ritmo de la función o del proceso mismo. 
+
+Por ejemplo, el corazón está equipado con un dispositivo nervioso acelerador o frenador que responde a la percepción orgánica de la presión sanguínea. En síntesis, el principio del feedback es absolutamente general: se trata de la regularización de la actividad (función, proceso) por los resultados de la misma y en correspondencia con una norma existente naturalmente, o establecida por un agente.
+
+En este caso de los controles, o sea las regulaciones creadas por el hombre, la “norma” es introducida por el contralor humano en función de un criterio razonado referido a la meta buscada. Un ejemplo muy conocido es el termostato. Otro es el rol del flotador en el tanque de agua del baño. El concepto de retro-alimentación (feedback) es por lo tanto un meta-concepto: Reúne las características comunes de múltiples ejemplos específicos de retro-alimentación.
+
+## Modelo general
+
+Teniendo esto en cuenta, es posible establecer un modelo general del proceso de regulación que puede resumirse como sigue: 
+
+a. Debe haber un monitor que mide el flujo, la velocidad, la presión, o en general el ritmo, valor o nivel del proceso.
+
+b. Debe especificarse un valor de referencia, o sea el óptimo que es necesario buscar, obtener y mantener.
+
+c. Debe haber un medidor permanente de las diferencias entre los sucesivos valores observados y el valor óptimo.
+
+d. El medidor de diferencias debe estar conectado a un efector que convierta la diferencia observada en disparador de la corrección necesaria.
+
+e. Después de tener lugar la corrección, se debe volver al principio y monitorear el resultado, tornando así cíclica la regulación.
+
+## Algunos conceptos y modelos transdisciplinarios 
+
+Existen varios otros modelos transdisciplinarios estructurales o funcionales, que presentan caracteres generales similares y son significativos en varias o muchas aplicaciones específicas.
+
+Pueden citarse al respecto:
+
+- La taxonomía de los subsistemas estructurales y funcionales de J. Miller.
+
+- Los distintos modos de crecimiento (p.ej. lineal, exponencial, asintótico).
+
+- La estabilidad dinámica, u homeostasis.
+
+- Las estructuras y funciones fractales. 
+
+- La auto-reproducción por recursividad.
+
+- La estructuración por disipación de energía.
+
+- Las catástrofes (o discontinuidades bruscas y rupturas de trayectorias).
+
+- La equifinalidad (llegando al mismo resultado por caminos diferentes).
+
+- El aura (o rastros de algún sistema desaparecido).
+
+Estos conceptos y modelos transdisciplinarios se pueden describir como herramientas para interrogar e interpretar estados y comportamientos de cualquier clase de entidades organizadas. Cubren un vasto dominio de fenómenos complejos que no pueden interpretarse usando los modelos tradicionales, como por ejemplo el determinismo causal lineal o el análisis reduccionista.
+
+
+
+
+
+
+
+
+

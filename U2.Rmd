@@ -1,0 +1,57 @@
+---
+title: "Características de los sistemas"
+---
+
+## Elementos
+
+Los elementos son los componentes de cada sistema. Los elementos de sistema pueden a su vez ser sistemas por derecho propio, es decir subsistemas. Los elementos de sistema pueden ser inanimados (no vivientes), o dotados de vida (vivientes). La mayoría de los sistemas con los que tratamos son agregados de ambos. Los elementos que entran al sistema se llaman entradas y los que lo dejan son llamados salidas o resultados.
+
+## Proceso de conversión
+
+Los sistemas organizados esta dotados de un proceso de conversión por el cual los elementos del sistema pueden cambiar de estado. El proceso de conversión cambia elementos de entrada en elementos de salida. En un sistema con organización, los procesos de conversión generalmente agregan valor y utilidad a las entradas, al convertirse en salidas. Si el proceso de conversión reduce el valor o utilidad en el sistema, este impone costos e impedimentos.
+
+
+## Entradas y recursos
+
+La diferencia entre entradas y recursos es mínima, y depende solo del punto de vista y circunstancia. En el proceso de conversión, las entradas son generalmente los elementos sobre los cuales se aplican los recursos. Cuando se identifican las entradas y recursos del sistema, es importante especificar si están o no bajo el control del diseñador del sistema, es decir, si pueden considerarse como parte del sistema o parte del medio. Cuando se evalúa la eficacia de un sistema para lograr sus objetivos, las entradas y los recursos generalmente se consideran costos.
+
+#### Salidas
+
+Las salidas son los resultados del proceso de conversión del sistema y se cuentan como resultados, éxitos o beneficios.
+
+
+## El medio
+
+Es necesario decidir sobre los límites de los sistemas cuando se estudian sistemas abiertos (vivientes), sistemas que interactúan con otros sistemas. La definición de los límites de sistema determina cuales sistemas se consideran bajo control de quienes toman las decisiones, y cuales deben dejarse fuera de su jurisdicción (conocidos como conocidos o dados). A pesar de donde se implantan los límites del sistema, no pueden ignorarse las interacciones con el medio, a menos que carezca de significado las soluciones adoptadas.
+
+
+## Proposito y función
+
+Los sistemas inanimados están desprovistos de un propósito evidente. Estos adquieren un propósito o función específicos, cuando entran en relación con otros subsistemas en el contexto de un sistema más grande, por tanto las conexiones entre subsistemas, y entre subsistemas y el sistema total, son de considerable importancia en el estudio de sistemas.
+
+
+## Atributos
+
+Los sistemas, subsistemas, y sus elementos, están dotados de atributos o propiedades. Los atributos pueden ser cuantitativos o cualitativos. Esta diferenciación determina el enfoque a utilizarse para medirlos. Los atributos cualitativos ofrecen mayor dificultad de definición y medición que su contraparte los atributos cuantitativos. Los atributos en ocasiones se usan como sinónimos a mediciones de eficacia, aunque deben diferenciarse el atributo y su medición.
+
+## Objetivos
+
+La identificación de metas y objetivos es de suma importancia para el diseño de sistemas. En la medida en que se disminuye el grado de abstracción, los enunciados de propósito serán mejor definidos y más operativos. Las mediciones de eficacia regulan el grado en que se satisfacen los objetivos de sistemas. Estas representan el valor de atributos de sistemas.
+
+## Componentes, programas y misiones
+
+En sistemas orientados a objetivos, se organiza el proceso de conversión alrededor del concepto de componentes, programas o misiones, el cual consiste de elementos compatibles reunidos para trabajar hacia un objetivo definido. En la mayoría de los casos, los límites de los componentes no coinciden con los límites de la estructura organizacional, una cuestión bastante significativa para el enfoque de sistemas.
+
+
+## Administración, agentes  y autores de decisiones
+
+Las acciones y decisiones que tienen lugar en el sistema, se atribuyen o asignan a  administradores, agentes y autores de decisiones cuya responsabilidad es la guía del sistema hacia el logro de sus objetivos. Primordialmente nos interesamos en el estudio de organizaciones o sistemas organizados orientados a un objetivo, es decir, en aquellos que poseen un propósito o función definibles, y se esfuerzan hacia uno o más objetivos o resultados observables y medibles.
+
+## Estructura
+
+La noción de estructura se relaciona con la forma de las relaciones que mantienen los elementos del conjunto. La estructura puede ser simple o compleja, dependiendo del número y tipo d interrelaciones entre l partes del sistema. Los sistemas complejos involucran jerarquías que son niveles ordenados, partes, o elementos de subsistemas. Los sistemas funcionan a largo plazo, y la eficacia con la cual se realizan depende del tipo y forma de interrelaciones entre los componentes del sistema.
+
+## Estados y flujos
+
+Es usual distinguir entre estados y flujos de sistemas. El estado de un sistema se define por las propiedades que muestran sus elementos en un punto en el tiempo. La condición de un sistema está dada por el valor de los atributos que lo caracterizan. Los cambios de un estado a otro por los que pasan los elementos del sistema dan surgimiento a flujos, los cuales se definen en términos de tasas de cambio del valor de los atributos de sistema. La conducta puede interpretarse como cambios en los estados de sistema sobre el tiempo.
+
